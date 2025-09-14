@@ -10,3 +10,53 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Movie Search
+
+A React application to search and explore movies.
+
+Features
+
+Search movies by name
+
+Filter movies by year and rating
+
+Responsive design for desktop and mobile
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/iqra-jamil/react-movie-search.git
+
+
+Go to the project folder:
+
+cd react-movie-search
+
+
+Install dependencies:
+
+npm install
+
+
+Run the project:
+
+npm run dev
+
+Tech Stack
+
+React
+
+Vite
+
+CSS
+
+Project Structure
+
+src/ contains components and styles
+
+public/ contains images and static files
+
+License
+
+This project is open source and free to use.
